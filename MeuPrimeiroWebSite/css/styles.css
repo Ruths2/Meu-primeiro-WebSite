@@ -1,0 +1,58 @@
+#title, .subtitle, .title_post1, .post_content, .contacts_list {
+  color: Purple;
+  font-family: helvetico;
+  font-size: 50px;
+  font-style: italic;
+}
+
+#title, .photo_name, .subtitle, .title_post1, .post_image, .post_content, .contacts_list {
+  margin-top: 10px;
+  margin-bottom: 15px;
+  padding: 5px;
+}
+
+#title {
+  margin-top: 20px;
+}
+
+.subtitle {
+  font-size: 20px;
+}
+
+.photo_name{
+  border: 3px solid Pink;
+  border-radius: 25px;
+}
+
+.title_post1 {
+  font-size: 15px;
+}
+
+.post {
+  background: #fff;
+  border: 3px solid Pink;
+  border-radius: 15px;
+}
+
+.post_content {
+  font-size: 15px;
+}
+
+.post_image{
+  width: 99%;
+  border-radius: 15px;
+  
+}
+
+.contacts_list {
+  list-style-type: none;
+  font-size: 13px;
+  
+}
+
+.body{
+  max-width: 900px;
+  margin: auto;
+  background: #f7f7f7
+ 
+}
