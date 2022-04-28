@@ -1,0 +1,30 @@
+.body {
+  max-width: 900px;
+  margin: auto;
+  background: #f7f7f7
+}
+
+.article {
+  background: #fff;
+  border: 5px solid Pink;
+  border-top-width: 20px;
+  border-bottom-width: 20px;
+  border-radius: 15px;
+  padding: 15px;
+}
+
+.title_music1, .author_music1, .content_music1 {
+  color: Purple;
+  font-family: helvetico;
+  font-style: italic;
+}
+
+.author_music1 {
+  padding-left: 5px;
+  font-size: 14px;
+  color: OrangeRed;
+}
+
+.content_music1 {
+  font-size: 14px;
+}

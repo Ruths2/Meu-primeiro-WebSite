@@ -1,26 +1,17 @@
-#title, .subtitle, .title_post1, .author_post, .post_content, .contacts_list {
+#title, .subtitle, .contacts_list {
   color: Purple;
   font-family: helvetico;
-  font-size: 30px;
   font-style: italic;
-}
-
-.title_post1, .author_post, .post_image, .post_content {
-  padding-left: 5px;
-}
-
-.author_post {
-  font-size: 14px;
-  color: OrangeRed;
 }
 
 #title {
   margin-top: 20px;
   text-align: center;
+  font-size: 45px;
 }
 
 .subtitle {
-  font-size: 20px;
+  font-size: 40px;
 }
 
 .photo_name{
@@ -28,35 +19,31 @@
   border-radius: 25px;
 }
 
-.title_post1 {
-  font-size: 15px;
-  color: BlueViolet;
+.list_music {
+  list-style-type: none;
+  font-size: 28px;
 }
 
-.post {
+.title_musics {
+  color: Green;
+}
+
+.article {
   background: #fff;
   border: 3px solid Pink;
   border-radius: 15px;
 }
 
-.post_content {
-  font-size: 14px;
-}
-
 .post_image{
-  width: 99%;
-  border-radius: 15px;
-  
+  border-radius: 30px;
 }
 
 .contacts {
   margin: 15px;
-  
 }
 
-.body{
+.body {
   max-width: 900px;
   margin: auto;
   background: #f7f7f7
- 
 }
