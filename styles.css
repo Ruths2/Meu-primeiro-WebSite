@@ -21,24 +21,24 @@
 
 .list_music {
   background: #fff;
-  border: 5px dotted Pink;
-  border-radius: 15px;
-  padding: 15px;
+  border: 7px dotted Pink;
+  border-radius: 30px;
+  padding: 20px;
   list-style-type: none;
 }
 
 .title_musics {
   color: DimGray;
-  font-size: 14px;
+  font-size: 13px;
 }
 
 .author_musics {
   color: DarkGoldenRod;
-  font-size: 12px;
+  font-size: 11px;
 }
 
 .post_image{
-  
+  width: 7vh;
   border-radius: 20px;
 }
 
