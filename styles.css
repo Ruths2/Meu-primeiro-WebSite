@@ -11,7 +11,7 @@
 }
 
 .subtitle {
-  font-size: 40px;
+  font-size:30px;
 }
 
 .photo_name{
@@ -20,22 +20,26 @@
 }
 
 .list_music {
+  background: #fff;
+  border: 5px dotted Pink;
+  border-radius: 15px;
+  padding: 15px;
   list-style-type: none;
-  font-size: 28px;
 }
 
 .title_musics {
-  color: Green;
+  color: DimGray;
+  font-size: 14px;
 }
 
-.article {
-  background: #fff;
-  border: 3px solid Pink;
-  border-radius: 15px;
+.author_musics {
+  color: DarkGoldenRod;
+  font-size: 12px;
 }
 
 .post_image{
-  border-radius: 30px;
+  
+  border-radius: 20px;
 }
 
 .contacts {
@@ -45,5 +49,5 @@
 .body {
   max-width: 900px;
   margin: auto;
-  background: #f7f7f7
+  background: Gainsboro;
 }
