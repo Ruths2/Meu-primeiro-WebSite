@@ -11,30 +11,35 @@
 }
 
 .subtitle {
-  font-size:30px;
+  font-size:27px;
 }
 
 .photo_name{
-  border: 3px solid Pink;
+  border: 3px solid Crimson;
   border-radius: 25px;
+  width: 550px;
+  
 }
 
 .list_music {
-  background: #fff;
-  border: 7px dotted Pink;
+  background: NavajoWhite;
+  opacity: 0.8;
+  border: 7px dotted Crimson;
   border-radius: 30px;
   padding: 20px;
   list-style-type: none;
 }
 
 .title_musics {
-  color: DimGray;
+  color: Maroon;
   font-size: 13px;
+  opacity: 10;
 }
 
 .author_musics {
-  color: DarkGoldenRod;
+  color: Brown;
   font-size: 11px;
+  opacity: 0.9;
 }
 
 .post_image{
@@ -49,5 +54,8 @@
 .body {
   max-width: 900px;
   margin: auto;
-  background: Gainsboro;
+  background: url('https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center, center;
 }

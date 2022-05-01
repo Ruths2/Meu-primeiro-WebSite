@@ -1,12 +1,15 @@
 .body {
   max-width: 900px;
   margin: auto;
-  background: Gainsboro
+  background: url('https://images.unsplash.com/photo-1593078166039-c9878df5c520?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
 }
 
 .article {
-  background: #fff;
-  border: 5px solid Pink;
+  background: Snow;
+  opacity: 0.8;
+  border: 5px solid RosyBrown;
   border-top-width: 25px;
   border-bottom-width: 25px;
   border-radius: 15px;
@@ -14,7 +17,7 @@
 }
 
 .title_music, .author_music, .content_music {
-  color: Purple;
+  color: MediumVioletRed;
   font-family: helvetico;
   font-style: italic;
 }
